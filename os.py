@@ -4,7 +4,7 @@ import uuid
 import requests
 import hashlib
 from multiprocessing import Pool
-
+print("AYLİN DURAN , 170709058")
 print("parent proc ID: ", os.getppid())
 print("proc ID", os.getpid())
 
